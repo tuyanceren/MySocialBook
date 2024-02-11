@@ -1,0 +1,2 @@
+### My Social Book
+My Social Book is a Java‐based website that functions as a Facebook‐like platform. It offers features such as adding and removing friends, post sharing, a login and registration screen, as well as post scheduling and commenting capabilities. It provides users with an interactive social networking experience, allowing them to connect, share content, and engage in discussions with others.
